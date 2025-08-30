@@ -15,3 +15,8 @@
 
 ##  Project Structure
 
+Autumn-Movie-Suggestions/
+├── images/ # Autumn-themed visual assets (e.g., background, icons)
+├── styles/ # Stylesheets (CSS) for layout and design
+├── index.html # Main page showcasing movie suggestions
+└── README.md # 
